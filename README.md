@@ -1,2 +1,2 @@
-# mathemagicz.github.io
+# mhemanthm.github.io
 web page
